@@ -1,6 +1,6 @@
 export const CURRENCY_CONVERTER_API = {
   URL: 'https://free.currconv.com/api/v7/convert',
-  KEY: '8f4a3ee908e7aff373e0',
+  KEY: import.meta.env.VITE_CURRENCY_CONVERTER_API_KEY,
 };
 
 /**
