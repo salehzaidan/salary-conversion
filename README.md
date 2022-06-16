@@ -21,5 +21,5 @@ Copy `.env.local.example` and rename it to `.env.local` . Enter your currency co
 Run the development server
 
 ```sh
-npm run start
+npm run dev
 ```
